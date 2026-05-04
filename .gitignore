@@ -24,6 +24,7 @@ go.work.sum
 # IDE files
 .vscode/
 .idea/
+.trae/
 *.swp
 *.swo
 *~
